@@ -1,0 +1,4 @@
+key.store=[Dropbox]/Private/dev/android/sundial.keystore
+key.alias=sundial
+key.store.password=matt88
+key.alias.password=matt88
